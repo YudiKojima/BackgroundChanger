@@ -1,0 +1,14 @@
+C:\Users\marco\source\repos\BackgroundGenerator\BackgroundGenerator\bin\Debug\net6.0\BackgroundGenerator.exe
+C:\Users\marco\source\repos\BackgroundGenerator\BackgroundGenerator\bin\Debug\net6.0\BackgroundGenerator.deps.json
+C:\Users\marco\source\repos\BackgroundGenerator\BackgroundGenerator\bin\Debug\net6.0\BackgroundGenerator.runtimeconfig.json
+C:\Users\marco\source\repos\BackgroundGenerator\BackgroundGenerator\bin\Debug\net6.0\BackgroundGenerator.dll
+C:\Users\marco\source\repos\BackgroundGenerator\BackgroundGenerator\bin\Debug\net6.0\BackgroundGenerator.pdb
+C:\Users\marco\source\repos\BackgroundGenerator\BackgroundGenerator\obj\Debug\net6.0\BackgroundGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\BackgroundGenerator\BackgroundGenerator\obj\Debug\net6.0\BackgroundGenerator.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\BackgroundGenerator\BackgroundGenerator\obj\Debug\net6.0\BackgroundGenerator.AssemblyInfo.cs
+C:\Users\marco\source\repos\BackgroundGenerator\BackgroundGenerator\obj\Debug\net6.0\BackgroundGenerator.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\BackgroundGenerator\BackgroundGenerator\obj\Debug\net6.0\BackgroundGenerator.dll
+C:\Users\marco\source\repos\BackgroundGenerator\BackgroundGenerator\obj\Debug\net6.0\refint\BackgroundGenerator.dll
+C:\Users\marco\source\repos\BackgroundGenerator\BackgroundGenerator\obj\Debug\net6.0\BackgroundGenerator.pdb
+C:\Users\marco\source\repos\BackgroundGenerator\BackgroundGenerator\obj\Debug\net6.0\BackgroundGenerator.genruntimeconfig.cache
+C:\Users\marco\source\repos\BackgroundGenerator\BackgroundGenerator\obj\Debug\net6.0\ref\BackgroundGenerator.dll
